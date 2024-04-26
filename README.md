@@ -35,7 +35,10 @@ The AWS Chatbot for Tourist Recommendation project aims to simplify travel plann
 
 
 
-Uploading Chatbot Demo.mov…
+
+
+https://github.com/ashmita-5/AWS-Chatbot-for-Tourist-Recommendation/assets/32629216/4743a675-23f2-441b-a971-ce4d45d110d2
+
 
 
 
