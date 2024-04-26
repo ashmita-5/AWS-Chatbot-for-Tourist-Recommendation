@@ -18,3 +18,17 @@ The AWS Chatbot for Tourist Recommendation project aims to simplify travel plann
 3. Amazon S3: Utilized for hosting the web interface, allowing tourists to input queries easily and receive recommendations, and ensuring a smooth user experience.
 4. AWS CloudFormation: Used for deployment and configuration of the web interface, ensuring proper permissions, access controls, and CORS settings for seamless communication with Amazon Lex.
 5. AWS CloudWatch: Employed for monitoring chatbot performance and user interactions, facilitating identification of issues and optimization of recommendations, and ensuring the chatbot and web interface remain up-to-date with new attractions, restaurants, and activities.
+
+### Project Outcomes
+
+<img width="308" alt="Screenshot 2024-04-26 at 08 31 10" src="https://github.com/ashmita-5/AWS-Chatbot-for-Tourist-Recommendation/assets/32629216/95d2c711-5226-431b-a3a7-80e56040b47c">
+
+
+<img width="307" alt="Screenshot 2024-04-15 at 00 07 53" src="https://github.com/ashmita-5/AWS-Chatbot-for-Tourist-Recommendation/assets/32629216/c7afd2a3-f276-410b-8a8c-72983935e73a">
+
+<img width="322" alt="Screenshot 2024-04-14 at 23 49 34 copy" src="https://github.com/ashmita-5/AWS-Chatbot-for-Tourist-Recommendation/assets/32629216/32dd2719-615e-4697-bfc3-efd2a3fc79f1">
+
+
+
+### Project Demo
+
